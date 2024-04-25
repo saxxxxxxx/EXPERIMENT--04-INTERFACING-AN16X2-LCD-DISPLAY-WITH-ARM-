@@ -2,9 +2,9 @@
 
 
  ## Aim: To Interface a 16X2 LCD display to ARM controller  , and simulate it in Proteus 
-## Name: Naveen KumarP
-## Date: 18-04-2024
-## Roll.no: 212222230092
+## Name: R Saketram
+## Date: 25-04-2024
+## Roll.no: 212223230181
 ## Dept: AI&DS
 ## Aim: To Interface a 16X2 LCD display to ARM controller  , and simulate it in Proteus 
 ## Components required: STM32 CUBE IDE, Proteus 8 simulator .
